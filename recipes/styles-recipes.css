@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(39, 39, 39);
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    border-radius: 25%;
+    
+}
+
+.img-align {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.home-link {
+    color: white;
+}
